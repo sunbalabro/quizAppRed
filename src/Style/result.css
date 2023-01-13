@@ -1,0 +1,21 @@
+.result{
+    max-width: 500px;
+    min-width: 250px;
+    background: #ffffff;
+    border-radius: 4px;
+    margin-top: 100px;
+    padding: 30px 60px;
+}
+.result h3 {
+    font-size: 24px;
+    letter-spacing: 1.4px;
+    text-align: center;
+  }
+  .result h2 {
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .result h2 span {
+    color: #800080;
+    font-size: 22px;
+  }

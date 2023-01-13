@@ -1,0 +1,32 @@
+.qz{
+    max-width: 500px;
+    min-width: 250px;
+    background: #ffffff;
+    border-radius: 4px;
+    margin-top: 100px;
+    padding: 30px 60px;
+}
+.qz > h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0;
+}
+.opt{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.opt li{
+    text-decoration: none;
+    list-style: none;
+    color: #2d264b;
+    font-size: 16px;
+    background: #ffffff;
+    border: 1px solid #eaeaea;
+    border-radius: 16px;
+    padding: 11px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.opt ul{
+    margin-top: 20px;
+}
